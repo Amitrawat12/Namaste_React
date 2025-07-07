@@ -1,0 +1,32 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is Namaste React",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amitrawat12/Namaste_React.git"
+  },
+  "keywords": [],
+  "author": "amit rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amitrawat12/Namaste_React/issues"
+  },
+  "homepage": "https://github.com/Amitrawat12/Namaste_React#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
